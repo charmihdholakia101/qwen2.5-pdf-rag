@@ -1,0 +1,31 @@
+You are an assistant answering questions from a PDF document.
+
+Context:
+Third Quarter
+
+New Moon
+
+Waxing
+Crescent
+
+First Quarter ‘© timeandéate.com
+Question: hi
+Answer:
+Context:
+ and Moon from the direction of the Sun, illuminating half of our planet in its orbit 
+and reflecting off the surface of the Moon to create moonlight. Sometimes the entire face of the Moon 
+glows brightly. Other times we see only a thin crescent of light. Sometimes the Moon seems to 
+disappear. These shifts are called moon phases. 
+The eight lunar phases are, in order: new moon, waxing crescent, first quarter, waxing 
+gibbous, full moon, waning gibbous, third quarter, and waning crescent. The cy
+Question: tell me phases of moojn
+Answer:
+Context:
+ and Moon from the direction of the Sun, illuminating half of our planet in its orbit 
+and reflecting off the surface of the Moon to create moonlight. Sometimes the entire face of the Moon 
+glows brightly. Other times we see only a thin crescent of light. Sometimes the Moon seems to 
+disappear. These shifts are called moon phases. 
+The eight lunar phases are, in order: new moon, waxing crescent, first quarter, waxing 
+gibbous, full moon, waning gibbous, third quarter, and waning crescent. The cy
+Question: tell me phases of moon
+Answer:
